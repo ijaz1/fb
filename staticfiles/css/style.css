@@ -1,0 +1,28 @@
+body{
+    background-color: #e7eaf8;
+}
+.lab{
+    color: white;
+    text-decoration: none;
+}
+#bt{
+    margin-top: 22px;
+}
+.fb{
+    color: white;
+    padding-left: 60px;
+    padding-top: 10px;
+    font-size: 50px;
+    
+}
+.im{
+    width: 700px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.j{
+    font-weight: bolder;
+}
+.p:hover{
+    color: rgb(255, 0, 0);
+}
